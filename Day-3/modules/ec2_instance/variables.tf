@@ -9,3 +9,7 @@ variable "instance_type_value" {
 variable "subnet_id_value" {
     description = "value for the subnet_id"
 }
+
+# variable "instance_name_value" {
+#     description = "value for instance_name"
+# }
